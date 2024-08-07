@@ -18,5 +18,5 @@ Each scandal has its own separate folder. Within each folder, you will find:
 - A folder named "Regression Analysis" which contains the preprocessed data and a Stata do file with the code used for regression
 
 ## Notes
-- The full dissertation, which includes details on data collection, can be found in this [LinkedIn post](#).
+- The full dissertation, which includes details on data collection, can be found in this [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7212077278011289600/).
 - Ensure to create a folder named "figures" within each scandal folder if running the code, as this will ensure the created figures are saved correctly.
